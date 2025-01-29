@@ -1,5 +1,5 @@
 # TI-GPT
-A project that leverages your ESP32 to enable your TI-84 family calculators to run Gemini-based applications.
+A project that leverages your ESP32 to enable your TI-84 family calculators to run Gemini.
 
 ## Table of Contents
 - [Installation](#installation)
