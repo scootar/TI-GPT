@@ -7,7 +7,7 @@
 CBL2 cbl;
 
 
-String apiKey = "Entere here ur api key";  
+String apiKey = "AIzaSyBkbm0izHAZVO3UIkFp0vtzJfZa6jDe2GQ";  
 
 
  String message = "lol";
@@ -16,8 +16,8 @@ int jikan = 0;
 int numChunks = 0;
 bool connected = false;
 bool ai = false;
-const int tip = 22;
-const int ring = 23;
+const int tip = 0;
+const int ring = 1;
 size_t chunk_size = 225;
 String Aimsg[10]; 
 String wifiNamae;
